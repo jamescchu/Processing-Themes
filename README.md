@@ -1,6 +1,8 @@
 # ProcessingMonokai
 Monokai color scheme ported to the Processing IDE, making it a lot easier on the eyes. This is currently only tested and supported for Processing 3.0+.
 
+Install instructions below.
+
 # Screenshot
 ![Screenshot](https://i.imgur.com/UmIHDe9.png)
 
